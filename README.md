@@ -18,5 +18,6 @@ My tools of the trade:
 
 
 
+Statistics:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AdrianSiwek&theme=highcontrast&hide_border=PRAWDA&background=4559DD&border=D585DD&ring=DD2727)](https://git.io/streak-stats)
