@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I'm currently working on an individual project, a group project and getting to know React.js,
+- 🔭 I'm currently learning JavaScript programming and working on an individual project, a group project and getting to know React.js,
 - 🌱 I'm currently learning HTML, CSS, JS, React.js, Node.js,
-- 👯 I'm looking to collaborate on ...
+- 👯 I'm looking to collaborate on internship or junior frontend developer,
 - 💬 Ask me about dance :),
 - 📫 How to reach me: adriansiwek@o2.pl,
 - 😄 Pronouns: ...
