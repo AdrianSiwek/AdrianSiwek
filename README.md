@@ -18,4 +18,4 @@ My tools of the trade:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?AdrianSiwek=anuraghazra&count_private=true)
+
