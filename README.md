@@ -19,3 +19,4 @@ My tools of the trade:
 
 
 
+[![GitHub Streak](https://streak-stats.demolab.com?AdrianSiwek=&theme=highcontrast&hide_border=PRAWDA&background=4559DD&border=D585DD&ring=DD2727)](https://git.io/streak-stats)
