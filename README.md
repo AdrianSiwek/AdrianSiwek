@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I'm currently learning HTML, CSS, JS, React.js, Node.js,
 - 👯 I'm looking to collaborate on internship or junior frontend developer,
 - 💬 Ask me about dance :),
-- 📫 How to reach me: adriansiwek@o2.pl,
+- 📫 How to reach me: dev.asiwek@gmail.com,
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I listen to rock, but I can dance to latino and waltz rhythms.
 
